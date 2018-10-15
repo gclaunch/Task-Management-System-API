@@ -52,7 +52,7 @@ ul li.checked {
 ul li.checked::before {
   content: '';
   position: absolute;
-  border-color: #fff;
+  border-color: #a9ff00;
   border-style: solid;
   border-width: 0 2px 2px 0;
   top: 10px;
@@ -71,20 +71,23 @@ ul li.checked::before {
 }
 
 .close:hover {
-  background-color: #f44336;
+  background-color: #6d0808;
   color: white;
 }
 
 /* Style the header */
-.header {
+#header {
+  position: fixed;
+  top: 0;
+  width: 100%;
   background-color: #6d3708;
-  padding: 2% 2%;
   color: #ffffff;
   text-align: center;
+  z-index: 1;
 }
 
 /* Clear floats after the header */
-.header:after {
+#header:after {
   content: "";
   display: table;
   clear: both;
