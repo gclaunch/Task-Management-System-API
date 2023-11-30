@@ -1,0 +1,13 @@
+[
+    {
+        "email": "ADMIN",
+        "password": "ADMIN",
+        "id": "5db1f0c1-2e02-43a3-9194-b5848d732c71",
+        "isAdmin": true
+    },
+    {
+        "email": "me@me.com",
+        "password": "$2a$10$uZBEjIXbViVZFPrDLqslkug3onOqHiBtnD7J4AK0PODUAtZ7kgguq",
+        "id": "f2c994b3-6039-4211-b8f0-58c7506d1134"
+    }
+]

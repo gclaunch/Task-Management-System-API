@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Task 1",
+        "description": "Description for task 1",
+        "due_date": "2023-10-29",
+        "status": "Pending",
+        "id": "c3c17faa-a001-43d4-8c7f-7706579d6edc",
+        "uid": "5db1f0c1-2e02-43a3-9194-b5848d732c71"
+    },
+    {
+        "title": "Task 2",
+        "description": "Description for task 2",
+        "due_date": "2023-10-29",
+        "status": "Pending",
+        "id": "994d15f3-ba3a-4f89-8a52-fb23e88a888d",
+        "uid": "f2c994b3-6039-4211-b8f0-58c7506d1134"
+    },
+    {
+        "title": "Task delete me",
+        "description": "Delete this!",
+        "due_date": "2023-10-29",
+        "status": "Pending",
+        "id": "6def10c3-924e-4a46-8817-2543544dee03",
+        "uid": "f2c994b3-6039-4211-b8f0-58c7506d1134"
+    },
+    {
+        "title": "Task Update",
+        "description": "Update this task.",
+        "due_date": "2023-10-30",
+        "status": "Pending",
+        "id": "415bee03-ebb7-466e-98ca-6981b0f385f7",
+        "uid": "f2c994b3-6039-4211-b8f0-58c7506d1134"
+    }
+]
